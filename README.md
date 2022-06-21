@@ -1,4 +1,4 @@
-# Random Hero and Villain name generator - Introductory node project
+# Random Hero and Villain name generator - Introductory use of node packages
 
 A random hero and villain name generator made using javascript and node packages
 
